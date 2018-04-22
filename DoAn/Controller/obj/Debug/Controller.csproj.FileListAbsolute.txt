@@ -1,0 +1,20 @@
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\bin\Debug\Controller.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\bin\Debug\Controller.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\bin\Debug\DataAcess.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\bin\Debug\DataAcess.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\bin\Debug\DataAcess.dll.config
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\obj\Debug\Controller.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\obj\Debug\Controller.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\bin\Debug\Controller.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\bin\Debug\Controller.pdb
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\bin\Debug\DataAcess.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\bin\Debug\DataAcess.pdb
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\bin\Debug\DataAcess.dll.config
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\obj\Debug\Controller.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\Controller\obj\Debug\Controller.pdb

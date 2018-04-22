@@ -1,0 +1,14 @@
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\bin\Debug\DataAcess.dll.config
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\bin\Debug\DataAcess.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\bin\Debug\DataAcess.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\obj\Debug\DataAcess.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\obj\Debug\DataAcess.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\bin\Debug\DataAcess.dll.config
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\bin\Debug\DataAcess.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\bin\Debug\DataAcess.pdb
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\obj\Debug\DataAcess.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DataAcess\obj\Debug\DataAcess.pdb

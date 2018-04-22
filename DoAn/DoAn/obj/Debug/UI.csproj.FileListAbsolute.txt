@@ -1,0 +1,56 @@
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\Controller.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.Instrumentation.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DataAcess.dll
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\Controller.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.Instrumentation.xml
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DataAcess.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DataAcess.dll.config
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.frmCauHinhChuoiConnect.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.frmLichSuHoatDong.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\UI.csproj.CopyComplete
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\obj\Debug\DoAn.frmLoading.resources
+D:\tai lieu\KY 2 NAM 4\[Đồ án] Karaoke\project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\Controller.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DataAcess.dll
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\Controller.pdb
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.Instrumentation.xml
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DataAcess.pdb
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DataAcess.dll.config
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmCauHinhChuoiConnect.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmDangNhap.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLichSuHoatDong.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmLoading.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmThongKe.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.frmTrangChu.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\UI.csproj.CopyComplete
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
