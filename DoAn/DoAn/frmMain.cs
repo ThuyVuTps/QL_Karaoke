@@ -5,16 +5,16 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevComponents.DotNetBar;
-using System.Threading;
 
 namespace DoAn
 {
-    public partial class frmTrangChu : Office2007RibbonForm
+    public partial class frmMain : DevComponents.DotNetBar.Office2007RibbonForm
     {
-        public frmTrangChu()
+        public frmMain()
         {
             Thread t = new Thread(new ThreadStart(startForm));
             t.Start();
@@ -28,9 +28,10 @@ namespace DoAn
             Application.Run(new frmLoading());
         }
 
-        private void frmTrangChu_Load(object sender, EventArgs e)
+        private void btn_ThietBi_Click(object sender, EventArgs e)
         {
-
+            frmThietBi frmThietBi = new frmThietBi();
+            frmThietBi.ShowDialog();
         }
     }
 }

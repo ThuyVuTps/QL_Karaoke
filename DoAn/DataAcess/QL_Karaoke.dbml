@@ -145,6 +145,19 @@
       <Association Name="LOAIKHUYENMAI_KHUYENMAI" Member="LOAIKHUYENMAI" ThisKey="IDLOAIKHUYENMAI" OtherKey="IDLOAIKHUYENMAI" Type="LOAIKHUYENMAI" IsForeignKey="true" />
     </Type>
   </Table>
+  <Table Name="dbo.LICHSUHOATDONG" Member="LICHSUHOATDONGs">
+    <Type Name="LICHSUHOATDONG">
+      <Column Name="TENDANGNHAP" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDHOATDONG" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="THOIGIANTHAYDOI" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NOIDUNGTHAYDOI" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DANHMUCTHAYDOI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="THELOAITHAYDOI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TRANGTHAI" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="NGUOIDUNG_LICHSUHOATDONG" Member="NGUOIDUNG" ThisKey="TENDANGNHAP" OtherKey="TENDANGNHAP" Type="NGUOIDUNG" IsForeignKey="true" />
+    </Type>
+  </Table>
   <Table Name="dbo.LOAIDICHVU" Member="LOAIDICHVUs">
     <Type Name="LOAIDICHVU">
       <Column Name="IDLOAIDICHVU" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
@@ -154,6 +167,17 @@
       <Column Name="TRANGTHAI" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
       <Column Name="GHICHU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
       <Association Name="LOAIDICHVU_DICHVU" Member="DICHVUs" ThisKey="IDLOAIDICHVU" OtherKey="IDLOAIDICHVU" Type="DICHVU" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LOAIKHUYENMAI" Member="LOAIKHUYENMAIs">
+    <Type Name="LOAIKHUYENMAI">
+      <Column Name="IDLOAIKHUYENMAI" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENLOAIKHUYENMAI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="THOIGIANTAOLKM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NHANVIENTAOLKM" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TRANGTHAI" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="LOAIKHUYENMAI_KHUYENMAI" Member="KHUYENMAIs" ThisKey="IDLOAIKHUYENMAI" OtherKey="IDLOAIKHUYENMAI" Type="KHUYENMAI" />
     </Type>
   </Table>
   <Table Name="dbo.LOAIPHONG" Member="LOAIPHONGs">
@@ -169,17 +193,6 @@
       <Association Name="LOAIPHONG_PHONG" Member="PHONGs" ThisKey="IDLOAIPHONG" OtherKey="IDLOAIPHONG" Type="PHONG" />
     </Type>
   </Table>
-  <Table Name="dbo.LOAIKHUYENMAI" Member="LOAIKHUYENMAIs">
-    <Type Name="LOAIKHUYENMAI">
-      <Column Name="IDLOAIKHUYENMAI" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
-      <Column Name="TENLOAIKHUYENMAI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
-      <Column Name="THOIGIANTAOLKM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
-      <Column Name="NHANVIENTAOLKM" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
-      <Column Name="TRANGTHAI" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
-      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
-      <Association Name="LOAIKHUYENMAI_KHUYENMAI" Member="KHUYENMAIs" ThisKey="IDLOAIKHUYENMAI" OtherKey="IDLOAIKHUYENMAI" Type="KHUYENMAI" />
-    </Type>
-  </Table>
   <Table Name="dbo.NGUOIDUNG" Member="NGUOIDUNGs">
     <Type Name="NGUOIDUNG">
       <Column Name="TENDANGNHAP" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
@@ -190,6 +203,7 @@
       <Column Name="THOIGIANTAOTK" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Column Name="TRANGTHAI" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
       <Column Name="GHICHU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="NGUOIDUNG_LICHSUHOATDONG" Member="LICHSUHOATDONGs" ThisKey="TENDANGNHAP" OtherKey="TENDANGNHAP" Type="LICHSUHOATDONG" />
       <Association Name="NGUOIDUNG_QL_NGUOIDUNG_NHOMNGUOIDUNG" Member="QL_NGUOIDUNG_NHOMNGUOIDUNGs" ThisKey="TENDANGNHAP" OtherKey="TENDANGNHAP" Type="QL_NGUOIDUNG_NHOMNGUOIDUNG" />
       <Association Name="THONGTINNHANVIEN_NGUOIDUNG" Member="THONGTINNHANVIEN" ThisKey="IDNHANVIEN" OtherKey="IDNHANVIEN" Type="THONGTINNHANVIEN" IsForeignKey="true" />
     </Type>

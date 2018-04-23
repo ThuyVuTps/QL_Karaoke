@@ -205,7 +205,6 @@
             this.groupPanel2.Controls.Add(this.label6);
             this.groupPanel2.Controls.Add(this.label5);
             this.groupPanel2.Controls.Add(this.label4);
-            this.groupPanel2.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel2.Location = new System.Drawing.Point(234, 3);
             this.groupPanel2.Name = "groupPanel2";
             this.groupPanel2.Size = new System.Drawing.Size(439, 97);
@@ -341,7 +340,6 @@
             this.groupPanel1.Controls.Add(this.label2);
             this.groupPanel1.Controls.Add(this.dateTimePicker1);
             this.groupPanel1.Controls.Add(this.label1);
-            this.groupPanel1.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel1.Location = new System.Drawing.Point(3, 3);
             this.groupPanel1.Name = "groupPanel1";
             this.groupPanel1.Size = new System.Drawing.Size(225, 505);
@@ -600,7 +598,6 @@
             this.groupPanel3.Controls.Add(this.label13);
             this.groupPanel3.Controls.Add(this.dateTimePicker4);
             this.groupPanel3.Controls.Add(this.label14);
-            this.groupPanel3.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel3.Location = new System.Drawing.Point(3, 3);
             this.groupPanel3.Name = "groupPanel3";
             this.groupPanel3.Size = new System.Drawing.Size(225, 505);
@@ -762,7 +759,6 @@
             this.groupPanel4.Controls.Add(this.label20);
             this.groupPanel4.Controls.Add(this.label21);
             this.groupPanel4.Controls.Add(this.label22);
-            this.groupPanel4.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel4.Location = new System.Drawing.Point(234, 6);
             this.groupPanel4.Name = "groupPanel4";
             this.groupPanel4.Size = new System.Drawing.Size(439, 97);
@@ -1000,7 +996,6 @@
             this.groupPanel5.Controls.Add(this.label23);
             this.groupPanel5.Controls.Add(this.dateTimePicker6);
             this.groupPanel5.Controls.Add(this.label24);
-            this.groupPanel5.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel5.Location = new System.Drawing.Point(3, 13);
             this.groupPanel5.Name = "groupPanel5";
             this.groupPanel5.Size = new System.Drawing.Size(251, 150);
@@ -1093,7 +1088,6 @@
             this.groupPanel6.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
             this.groupPanel6.Controls.Add(this.radioButton2);
             this.groupPanel6.Controls.Add(this.radioButton1);
-            this.groupPanel6.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel6.Location = new System.Drawing.Point(3, 197);
             this.groupPanel6.Name = "groupPanel6";
             this.groupPanel6.Size = new System.Drawing.Size(251, 106);
