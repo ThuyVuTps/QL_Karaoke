@@ -29,43 +29,43 @@ namespace DoAn
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            //if(string.IsNullOrEmpty(txtTaiKhoan.Text))
-            //{
-            //    MessageBox.Show("Tài khoản không được để trống","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            //    txtTaiKhoan.Focus();
-            //    return;
-            //}
-            //if(string.IsNullOrEmpty(txtMatKhau.Text))
-            //{
-            //    MessageBox.Show("Mật khẩu không được để trống","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            //    txtMatKhau.Focus();
-            //    return;
-            //}
-            //int flag = login.kt_DangNhap(txtTaiKhoan.Text, txtMatKhau.Text);
-            //if (flag == 4)
-            //{
-            //    //MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK,MessageBoxIcon.Information);
-            //    this.Hide();
-            //    frmMain frm = new frmMain();
-            //    frm.ShowDialog();
-            //    this.Close();
-            //}
-            //else if(flag == 1)
-            //{
-            //    MessageBox.Show("Chuối kết nối không đúng, cần chỉnh sửa", "Thông báo", MessageBoxButtons.OK,MessageBoxIcon.Warning);
-            //    frmCauHinhChuoiConnect frm = new frmCauHinhChuoiConnect();
-            //    frm.ShowDialog();
-            //}
-            //else if(flag == 2)
-            //{
-            //    MessageBox.Show("Tài khoản hoặc mật khẩu không đúng", "Thông báo", MessageBoxButtons.OK,MessageBoxIcon.Warning);
-            //    return;
-            //}
-            //else if(flag == 3)
-            //{
-            //    MessageBox.Show("Tài khoản này đã bị khóa", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            //    return;
-            //}
+            if (string.IsNullOrEmpty(txtTaiKhoan.Text))
+            {
+                MessageBox.Show("Tài khoản không được để trống", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                txtTaiKhoan.Focus();
+                return;
+            }
+            if (string.IsNullOrEmpty(txtMatKhau.Text))
+            {
+                MessageBox.Show("Mật khẩu không được để trống", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                txtMatKhau.Focus();
+                return;
+            }
+            int flag = login.kt_DangNhap(txtTaiKhoan.Text, txtMatKhau.Text);
+            if (flag == 4)
+            {
+                //MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK,MessageBoxIcon.Information);
+                this.Hide();
+                frmMain frmMain = new frmMain();
+                frmMain.ShowDialog();
+                this.Close();
+            }
+            else if (flag == 1)
+            {
+                MessageBox.Show("Chuối kết nối không đúng, cần chỉnh sửa", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                frmCauHinhChuoiConnect frmKetNoi = new frmCauHinhChuoiConnect();
+                frmKetNoi.ShowDialog();
+            }
+            else if (flag == 2)
+            {
+                MessageBox.Show("Tài khoản hoặc mật khẩu không đúng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            else if (flag == 3)
+            {
+                MessageBox.Show("Tài khoản này đã bị khóa", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             frmMain frm = new frmMain();
             frm.ShowDialog();
         }

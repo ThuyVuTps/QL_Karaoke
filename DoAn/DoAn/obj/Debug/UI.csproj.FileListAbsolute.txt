@@ -34,10 +34,6 @@ D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
 D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\Controller.dll
 D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DataAcess.dll
 D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\Controller.pdb
-D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
-D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.Schedule.xml
-D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
-D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DevComponents.Instrumentation.xml
 D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DataAcess.pdb
 D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\bin\Debug\DataAcess.dll.config
 D:\Hoc_Tap\Hoc_Ki_8\DoAn\DoAn\DoAn\obj\Debug\UI.csprojResolveAssemblyReference.cache
