@@ -46,9 +46,10 @@
             this.lblTaiKhoan.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.lblTaiKhoan.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lblTaiKhoan.ForeColor = System.Drawing.Color.Green;
-            this.lblTaiKhoan.Location = new System.Drawing.Point(233, 40);
+            this.lblTaiKhoan.Location = new System.Drawing.Point(269, 50);
+            this.lblTaiKhoan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.lblTaiKhoan.Name = "lblTaiKhoan";
-            this.lblTaiKhoan.Size = new System.Drawing.Size(99, 23);
+            this.lblTaiKhoan.Size = new System.Drawing.Size(132, 28);
             this.lblTaiKhoan.TabIndex = 0;
             this.lblTaiKhoan.Text = "Tài Khoản: ";
             // 
@@ -61,38 +62,42 @@
             this.lblMatKhau.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.lblMatKhau.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lblMatKhau.ForeColor = System.Drawing.Color.Green;
-            this.lblMatKhau.Location = new System.Drawing.Point(233, 69);
+            this.lblMatKhau.Location = new System.Drawing.Point(269, 86);
+            this.lblMatKhau.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.lblMatKhau.Name = "lblMatKhau";
-            this.lblMatKhau.Size = new System.Drawing.Size(99, 23);
+            this.lblMatKhau.Size = new System.Drawing.Size(132, 28);
             this.lblMatKhau.TabIndex = 1;
             this.lblMatKhau.Text = "Mật Khẩu:";
             // 
             // txtTaiKhoan
             // 
             this.txtTaiKhoan.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.txtTaiKhoan.Location = new System.Drawing.Point(338, 39);
+            this.txtTaiKhoan.Location = new System.Drawing.Point(409, 49);
+            this.txtTaiKhoan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtTaiKhoan.Name = "txtTaiKhoan";
-            this.txtTaiKhoan.Size = new System.Drawing.Size(160, 26);
+            this.txtTaiKhoan.Size = new System.Drawing.Size(212, 26);
             this.txtTaiKhoan.TabIndex = 2;
             // 
             // txtMatKhau
             // 
             this.txtMatKhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.txtMatKhau.Location = new System.Drawing.Point(338, 70);
+            this.txtMatKhau.Location = new System.Drawing.Point(409, 87);
+            this.txtMatKhau.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.PasswordChar = '*';
-            this.txtMatKhau.Size = new System.Drawing.Size(160, 26);
+            this.txtMatKhau.Size = new System.Drawing.Size(212, 26);
             this.txtMatKhau.TabIndex = 3;
             // 
             // ckbNhoMatKhau
             // 
             this.ckbNhoMatKhau.AutoSize = true;
             this.ckbNhoMatKhau.BackColor = System.Drawing.Color.Transparent;
-            this.ckbNhoMatKhau.Font = new System.Drawing.Font("Times New Roman", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.ckbNhoMatKhau.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.ckbNhoMatKhau.Location = new System.Drawing.Point(314, 110);
+            this.ckbNhoMatKhau.Font = new System.Drawing.Font("Times New Roman", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.ckbNhoMatKhau.ForeColor = System.Drawing.Color.Blue;
+            this.ckbNhoMatKhau.Location = new System.Drawing.Point(377, 136);
+            this.ckbNhoMatKhau.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ckbNhoMatKhau.Name = "ckbNhoMatKhau";
-            this.ckbNhoMatKhau.Size = new System.Drawing.Size(105, 19);
+            this.ckbNhoMatKhau.Size = new System.Drawing.Size(117, 21);
             this.ckbNhoMatKhau.TabIndex = 5;
             this.ckbNhoMatKhau.Text = "Nhớ Mật Khẩu";
             this.ckbNhoMatKhau.UseVisualStyleBackColor = false;
@@ -102,10 +107,11 @@
             this.btnDangNhap.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.btnDangNhap.BackColor = System.Drawing.Color.Transparent;
             this.btnDangNhap.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.btnDangNhap.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnDangNhap.Location = new System.Drawing.Point(261, 144);
+            this.btnDangNhap.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnDangNhap.Location = new System.Drawing.Point(306, 178);
+            this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(101, 25);
+            this.btnDangNhap.Size = new System.Drawing.Size(135, 31);
             this.btnDangNhap.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.btnDangNhap.TabIndex = 6;
             this.btnDangNhap.Text = "Đăng Nhập";
@@ -116,10 +122,11 @@
             this.btnQuenMatKhau.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.btnQuenMatKhau.BackColor = System.Drawing.Color.Transparent;
             this.btnQuenMatKhau.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.btnQuenMatKhau.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnQuenMatKhau.Location = new System.Drawing.Point(390, 144);
+            this.btnQuenMatKhau.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnQuenMatKhau.Location = new System.Drawing.Point(478, 178);
+            this.btnQuenMatKhau.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnQuenMatKhau.Name = "btnQuenMatKhau";
-            this.btnQuenMatKhau.Size = new System.Drawing.Size(108, 25);
+            this.btnQuenMatKhau.Size = new System.Drawing.Size(144, 31);
             this.btnQuenMatKhau.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.btnQuenMatKhau.TabIndex = 7;
             this.btnQuenMatKhau.Text = "&Quên Mật Khẩu";
@@ -127,11 +134,12 @@
             // 
             // frmDangNhap
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AcceptButton = this.btnDangNhap;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::DoAn.Properties.Resources.dn;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(510, 185);
+            this.ClientSize = new System.Drawing.Size(634, 274);
             this.Controls.Add(this.btnQuenMatKhau);
             this.Controls.Add(this.btnDangNhap);
             this.Controls.Add(this.ckbNhoMatKhau);
@@ -139,6 +147,8 @@
             this.Controls.Add(this.txtTaiKhoan);
             this.Controls.Add(this.lblMatKhau);
             this.Controls.Add(this.lblTaiKhoan);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmDangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng Nhập";

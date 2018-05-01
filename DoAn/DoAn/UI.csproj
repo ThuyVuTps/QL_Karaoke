@@ -114,12 +114,6 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmThietBi.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmThietBi.Designer.cs">
-      <DependentUpon>frmThietBi.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,6 +122,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThietBi.Designer.cs">
+      <DependentUpon>frmThietBi.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frmCauHinhChuoiConnect.resx">
       <DependentUpon>frmCauHinhChuoiConnect.cs</DependentUpon>
     </EmbeddedResource>
@@ -143,9 +143,6 @@
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmThietBi.resx">
-      <DependentUpon>frmThietBi.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmThongKe.resx">
       <DependentUpon>frmThongKe.cs</DependentUpon>
     </EmbeddedResource>
@@ -159,6 +156,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="frmThietBi.resx">
+      <DependentUpon>frmThietBi.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="app.config" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -269,6 +269,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\phong3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dulieu.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
